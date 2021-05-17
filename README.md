@@ -5,7 +5,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 Deadline is set to June 13th 2021
 
 ### Javascript
-- [ ] 1. Basic Javascript(all 111) 
+- [x] 1. Basic Javascript(all 111) 
 - [ ] 2. ES6(all 31) 
 - [ ] 3. Functional Programming(all 24) 
 - [ ] 4. ES6 Javascript 
