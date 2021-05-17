@@ -1,5 +1,7 @@
 # Study list
 
+This repo is created solely for logging purposes (we all know that GitHub green contribution chart effect on our productivity and self-esteem ;)
+
 Deadline is set to June 13th 2021
 
 ### Javascript
