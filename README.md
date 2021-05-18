@@ -6,7 +6,7 @@ Deadline is set to June 13th 2021
 
 ### Javascript
 - [x] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
-- [ ] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+- [x] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
 - [ ] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 - [ ] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
 - [ ] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
