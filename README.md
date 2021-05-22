@@ -16,7 +16,7 @@ Deadline is set to June 13th 2021
 - [ ] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
 - [x] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
 - [x] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
-- [ ] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
+- [x] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
 
 ### Typescript
 - [ ] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
