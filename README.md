@@ -11,7 +11,7 @@ Deadline is set to June 13th 2021
 - [x] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
 - [x] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
 - [ ] (Optional) Advanced JS
-- [ ] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
+- [x] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
 - [ ] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
 - [ ] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
 - [ ] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
