@@ -14,7 +14,7 @@ Deadline is set to June 13th 2021
 - [x] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
 - [ ] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
 - [ ] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
-- [ ] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
+- [x] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
 - [ ] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
 - [ ] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
 
