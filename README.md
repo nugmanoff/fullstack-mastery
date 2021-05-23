@@ -19,7 +19,7 @@ Deadline is set to June 13th 2021
 - [x] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
 
 ### Typescript
-- [ ] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [x] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [ ] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 - [ ] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
 - [ ] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
