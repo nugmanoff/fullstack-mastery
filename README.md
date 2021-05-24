@@ -23,10 +23,9 @@ Deadline is set to June 13th 2021
 - [x] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 - [x] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
 - [ ] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
-- [ ] 4. [Egghead – Async/Await using TypeScript](https://egghead.io/courses/async-await-using-typescript)
 - [ ] (Optional) Advanced TS
-- [ ] 5. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
-- [ ] 6. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
+- [ ] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
+- [ ] 5. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
 - [ ] 1. [Docs – React](https://reactjs.org/docs/getting-started.html)
