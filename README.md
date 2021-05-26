@@ -28,7 +28,7 @@ Deadline is set to June 13th 2021
 - [ ] 5. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
-- [ ] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [x] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
 - [ ] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [ ] 3. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
 
