@@ -29,12 +29,12 @@ Deadline is set to June 13th 2021
 
 ### React
 - [x] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
-- [ ] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [x] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [ ] 3. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
 
 ### Node
-- [ ] 1. [Udemy – Node the complete guide](https://coursehunter.net/course/nodejs-polnoe-rukovodstvo-vklyuchaya-mvc-rest-api-graphql)
-- [ ] 2. [Docs – Node](https://nodejs.org/en/docs/)
+- [ ] 1. [Docs – Node](https://nodejs.org/en/docs/)
+- [ ] 2. [Timur Shemsedinov Nodejs Playlist](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
 - [ ] (Optional) [Ben Awad | Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=780s&ab_channel=BenAwadBenAwad%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE)
 
 ### Docker
