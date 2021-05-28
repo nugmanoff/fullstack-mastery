@@ -54,3 +54,16 @@ Deadline is set to June 13th 2021
 - [ ] 5. ORM?
 - [ ] 6. [Geeksforgeeks – Normal Forms in DBMS](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
 - [ ] 7. [Tutorialspoint – Indexing DBMS](https://www.tutorialspoint.com/dbms/dbms_indexing.htm)
+
+### Extra
+
+Deadline for this section is **not** June 13th. Probable deadline is September 1st ;)
+
+- [ ] 1. [Typescript Full Reference](https://reactjs.org/docs/accessibility.html)
+- [ ] 2. [React Advanced Guides](https://reactjs.org/docs/accessibility.html)
+- [ ] 3. [Read through Overreacted Blog](http://overreacted.io/)
+- [ ] 4. [Read through Khalil Stemmer Blog](https://khalilstemmler.com/articles)
+- [ ] 5. [Timur Shemsedinov All Videos](https://www.youtube.com/c/TimurShemsedinov/videos)
+- [ ] 6. [Read DDIA](https://dataintensive.net/)
+- [ ] 7. [Read Solidbook](https://solidbook.io/)
+- [ ] 8. [Testing Javascript](https://testingjavascript.com/)
