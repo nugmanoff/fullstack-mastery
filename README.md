@@ -64,6 +64,6 @@ Deadline for this section is **not** June 13th. Probable deadline is September 1
 - [ ] 3. [Read through Overreacted Blog](http://overreacted.io/)
 - [ ] 4. [Read through Khalil Stemmer Blog](https://khalilstemmler.com/articles)
 - [ ] 5. [Timur Shemsedinov All Videos](https://www.youtube.com/c/TimurShemsedinov/videos)
-- [ ] 6. [Read DDIA](https://dataintensive.net/) - current progress 207/424
+- [ ] 6. [Read DDIA](https://dataintensive.net/) - current progress 233/424
 - [ ] 7. [Read Solidbook](https://solidbook.io/)
 - [ ] 8. [Testing Javascript](https://testingjavascript.com/)
