@@ -2,8 +2,6 @@
 
 This repo is created solely for logging purposes (we all know that GitHub green contribution chart effect on our productivity and self-esteem ;)
 
-Deadline is set to June 13th 2021
-
 ### Javascript
 - [x] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 - [x] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
@@ -30,7 +28,6 @@ Deadline is set to June 13th 2021
 ### React
 - [x] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
 - [x] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [ ] 3. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
 
 ### Node
 - [ ] 1. [Docs – Node](https://nodejs.org/en/docs/)
@@ -55,15 +52,17 @@ Deadline is set to June 13th 2021
 - [ ] 6. [Geeksforgeeks – Normal Forms in DBMS](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
 - [ ] 7. [Tutorialspoint – Indexing DBMS](https://www.tutorialspoint.com/dbms/dbms_indexing.htm)
 
-### Extra
+### Heuristics for picking resources
 
-Deadline for this section is **not** June 13th. Probable deadline is September 1st ;)
+#### Articles, reads
+* Timur Shemsedinov Nodejs Playlist
+* Khalil Stemmler blog
+* Martin Fowler blog
+* Dan Abramov (overreacted) blog
 
-- [ ] 1. [Typescript Full Reference](https://reactjs.org/docs/accessibility.html)
-- [ ] 2. [React Advanced Guides](https://reactjs.org/docs/accessibility.html)
-- [ ] 3. [Read through Overreacted Blog](http://overreacted.io/)
-- [ ] 4. [Read through Khalil Stemmer Blog](https://khalilstemmler.com/articles)
-- [ ] 5. [Timur Shemsedinov All Videos](https://www.youtube.com/c/TimurShemsedinov/videos)
-- [ ] 6. [Read DDIA](https://dataintensive.net/) - current progress 294/424
-- [ ] 7. [Read Solidbook](https://solidbook.io/)
-- [ ] 8. [Testing Javascript](https://testingjavascript.com/)
+#### Books
+* Solidbook, Khalil Stemmler - current progress 294/424
+* Clean Architecture, Robert Martin
+* TDD by example, Kent Beck (take testingjavascript.com at the same time)
+* DDIA, Martin Kleppmann
+* XP, Kent Beck
