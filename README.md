@@ -61,7 +61,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 * Dan Abramov (overreacted) blog
 
 #### Books
-* Solidbook, Khalil Stemmler - current progress 294/424
+* Solidbook, Khalil Stemmler - current progress 334/424
 * Clean Architecture, Robert Martin
 * TDD by example, Kent Beck (take testingjavascript.com at the same time)
 * DDIA, Martin Kleppmann
