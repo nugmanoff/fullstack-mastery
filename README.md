@@ -62,7 +62,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 * https://microservices.io/index.html
 
 #### Books
-* Solidbook, Khalil Stemmler - current progress 400/424
+- [x] 1. Solidbook, Khalil Stemmler
 * Clean Architecture, Robert Martin
 * TDD by example, Kent Beck (take testingjavascript.com at the same time)
 * DDD blue book, Chris Evans
