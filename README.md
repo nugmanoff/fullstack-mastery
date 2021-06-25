@@ -63,8 +63,11 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 
 #### Books
 - [x] 1. Solidbook, Khalil Stemmler
-* Clean Architecture, Robert Martin
-* TDD by example, Kent Beck (take testingjavascript.com at the same time)
-* DDD blue book, Chris Evans
-* DDIA, Martin Kleppmann
-* XP, Kent Beck
+- [ ] 2. DDD Distilled, Vaughn Vernon; current progress – 14/137
+- [ ] 3. Clean Architecture, Robert Martin
+- [ ] 4. TDD by example, Kent Beck (take testingjavascript.com at the same time)
+- [ ] 5. XP, Kent Beck
+- [ ] 6. DDIA, Martin Kleppmann
+- [ ] 7. DDD blue book, Chris Evans
+
+
