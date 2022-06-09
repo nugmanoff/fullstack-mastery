@@ -2,6 +2,12 @@
 
 This repo is created solely for logging purposes (we all know that GitHub green contribution chart effect on our productivity and self-esteem ;)
 
+### HTML & CSS
+
+- [ ] 1. [Freecodecamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [ ] 2. [Freecodecamp – Bootstrap, jQuery, SASS](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [ ] 3. [JavaScript 30 – Vanilla.js](https://javascript30.com/)
+
 ### Javascript
 - [x] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 - [x] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
